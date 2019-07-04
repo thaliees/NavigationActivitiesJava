@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavigationActivities</string>
+    <string name="button_pressed">Press me!</string>
+</resources>
